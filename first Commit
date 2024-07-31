@@ -1,0 +1,24 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# No ramo main
+# Your branch is up to date with 'origin/main'.
+#
+# Mudanças a serem submetidas:
+#	modified:   .gitignore
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/App.vue
+#	new file:   src/background.js
+#	new file:   src/img/Icon-removebg-preview.png
+#	new file:   src/img/Icon.png
+#	modified:   src/main.js
+#	new file:   src/router/router.js
+#	new file:   src/views/ConfigView.vue
+#	new file:   src/views/HomeView.vue
+#	new file:   src/views/LoginView.vue
+#	modified:   vue.config.js
+#
+
+first commit
